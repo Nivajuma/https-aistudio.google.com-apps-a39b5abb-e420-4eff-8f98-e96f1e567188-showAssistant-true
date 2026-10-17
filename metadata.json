@@ -1,0 +1,6 @@
+{
+  "name": "BetPesa Pro & M-Pesa STK Sandbox",
+  "description": "High-end sports betting and virtual gaming platform with simulated & real M-Pesa STK Push wallet deposits, AI odds predictor, live matches, and instant payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
